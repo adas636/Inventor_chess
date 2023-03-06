@@ -1,2 +1,2 @@
-# Inventory_chess
-Project containing model of chess set 
+# Inventor_chess
+Project containing model of a chess set
